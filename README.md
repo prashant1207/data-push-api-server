@@ -20,7 +20,7 @@ content_id : string
 This endpoint takes the content_id and look for the 'content_id.json' file in /json/data folder, and sends the flatfile to the client. 
 
 ## GET /icon/value
-This endpoint sends image resource with filename /icon/value.png. This image can also be defiend in HTML with <img src='/icon/home'/>.
+This endpoint sends image resource with filename /icon/value.png. This image can also be defiend in HTML with  src='/icon/home'.
 
 ## POST /save
 **Required Param:**
