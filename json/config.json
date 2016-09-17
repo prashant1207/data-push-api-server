@@ -1,0 +1,25 @@
+{
+    "subtitle": "Amazing Client App",
+    "title": "App Title",
+    "app_title":"Banner Title",
+    "menu_link": [
+        {
+            "text": "Home",
+            "icon": "icon/home.png",
+            "content_id": "",
+            "type":"home"
+        },
+        {
+            "text": "Content",
+            "icon": "icon/info.png",
+            "content_id": "contentlist",
+            "type":"content"
+        },
+        {
+            "text": "Hyperlink List",
+            "icon": "icon/list.png",
+            "content_id": "hyperlinklist",
+            "type":"list"
+        }        
+    ]
+}

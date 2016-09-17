@@ -1,0 +1,23 @@
+{
+    "name": "hyperlinklist",
+    "title": "Resources",
+    "hyperlink_list": [
+        {
+            "name": "NPM Packages",
+            "content": [
+                {
+                    "text": "Express",
+                    "link": "https://www.npmjs.com/package/express"
+                },
+                {
+                    "text": "Hash-Utilities",
+                    "link": "https://www.npmjs.com/package/hash-utilities"
+                },
+                {
+                    "text": "jQuery",
+                    "link": "https://www.npmjs.com/package/jquery"
+                }
+            ]
+        }
+    ]
+}

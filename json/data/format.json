@@ -1,0 +1,37 @@
+{
+    "name": "administrator",
+    "title": "Administrator",
+    "content": [],
+    "lists": [],
+    "hyperlink_list": [
+        {
+            "name": "zzzz",
+            "content": [
+                {
+                    "text": "xxx",
+                    "link": "xxx"
+                },
+                {
+                    "text": "xxx",
+                    "link": "xxx"
+                },
+                {
+                    "text": "xxx",
+                    "link": "xxx"
+                },
+                {
+                    "text": "xxx",
+                    "link": "xxx"
+                },
+                {
+                    "text": "xxx",
+                    "link": "xxx"
+                },
+                {
+                    "text": "xxx",
+                    "link": "xxx"
+                }
+            ]
+        }
+    ]
+}
